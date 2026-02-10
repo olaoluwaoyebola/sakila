@@ -37,19 +37,14 @@ relational database.
 
     sakila-analysis/
     │
-    ├── data/
-    │   └── sakila.sqlite
+    ├── docs/
+    │   
     │
     ├── notebooks/
-    │   ├── 01_database_exploration.ipynb
-    │   ├── 02_customer_analysis.ipynb
-    │   ├── 03_film_category_analysis.ipynb
-    │   ├── 04_revenue_analysis.ipynb
-    │   ├── 05_staff_store_performance.ipynb
-    │   └── 06_insights_and_recommendations.ipynb
+    │   ├── Sakila_Analytics.ipynb
     │
-    ├── visuals/
-    │   └── charts/
+    ├── .gitignore
+    │   
     │
     └── README.md
 
@@ -64,6 +59,11 @@ Geographic data (address, city, country)
 
 The database consists of **16 tables**, with normalized relationships
 supporting complex analytical queries.
+
+------------------------------------------------------------------------
+
+## 🔗 Link to the sqlite database
+https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?select=sqlite-sakila.db
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ supporting complex analytical queries.
 ## 👤 Author
 
 **Olaoluwa Isaac**\
-Data Analyst \| SQL & Python Tutor
+Data Analyst | Data Scientist
 
 ------------------------------------------------------------------------
 
